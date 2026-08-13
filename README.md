@@ -23,6 +23,10 @@ But it is recommened to play locally by downloading .exe file from **[HERE](http
 
 ## ✨ Features
 
+**[Click Here](https://huzaifam-05.github.io/Space-Raiders-Web/features.html/)** to have a view on all features.
+
+---
+
 ### ⚔️ Combat
 
 - Fast-paced 2D space combat
